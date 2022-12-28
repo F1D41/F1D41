@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://bit.ly/3FVBydi
 -->
 
-<b>Are you sure you are safe on the Internet?</b>
+<b>•) Are you sure you are safe on the Internet?</b><br>
+<b>•) Are you safe when you use the Internet?</b>
