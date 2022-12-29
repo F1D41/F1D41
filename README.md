@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 <b>•) Are you sure you are safe on the Internet?</b><br>
 <b>•) Are you safe when you use the Internet?</b>
+<br>
+<b>Support : <a href="https://t.me/f1d41">Link</a></b>
